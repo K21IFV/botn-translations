@@ -53,7 +53,7 @@ msgstr "이 작은 가죽 도구 벨트는 내 버터 스틱을 간신히 넣을
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",00D1AE354BA8FEC1FB7DB5A02D3F12AA"
 msgid "Ahh... oh! Ahem."
-msgstr ""
+msgstr "아... 오! 에헴."
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -116,7 +116,7 @@ msgstr "글쌔, 드문 광경이네."
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",0207AC704D78649132718BBF7F0F0CA1"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "여왕벌이 꽃을 요구합니다."
 
 #. Key:	022313C047D185193F98C48BE5852E62
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
@@ -165,7 +165,7 @@ msgstr "점점 이상해지고 있어..."
 #: /Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(1).Lines
 msgctxt ",03434DDC47EC9AE95DD6FF899A0ECE62"
 msgid "Deep in the dark caverns of the world live the more \"unsavory\" @MONSTER_RACE@."
-msgstr ""
+msgstr "세계의 어두운 동굴 깊숙한 곳에 더 \"불미스러운\" @MONSTER_RACE@이 살고 있다."
 
 #. Key:	034A5C0F4CB9984BC7F902A4AE65BB8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(0).Lines
@@ -242,7 +242,7 @@ msgstr "저는 바로 목장을 떠납니다! 하지만 걱장하지 마세요. 
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(0).Lines
 msgctxt ",047A2B2C4D533C816757C8B486F04CC0"
 msgid "Of course not. It's been a symbol of my hive for ages."
-msgstr ""
+msgstr "물론 아니니라. 그것은 오랫동안 내 벌집의 상징이었느니라."
 
 #. Key:	04809803498EAC7920E3F09D8A29F0BF
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
@@ -256,7 +256,7 @@ msgstr "체애애애액 수확해애애애?"
 #: /Game/Dialogue/Fesssi/Default/FesssiDefault01.Default__FesssiDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",04B934DA4280B01E3757EB87CAD514BE"
 msgid "Sure, letting the dryad play with my ass in exchange for fruit was fun for awhile. Her decadent cherries are delicious."
-msgstr ""
+msgstr "물론, 그 드라이어드가 내 엉덩이로 과일을 주고 받는 건 한동안 재미있었어. 그녀의 퇴폐적인 체리는 맛이 있지."
 
 #. Key:	0500B4944007820F3A7BB096A4E699AB
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
@@ -291,7 +291,7 @@ msgstr "라미아에 대해 알려줘."
 #: /Game/Dialogue/QueenBee/Default/BeeTaskFulfilled.Default__BeeTaskFulfilled_C.SessionData.Lines(0).Lines
 msgctxt ",0529D0BB4C3047950C7EE496E1F0E5BC"
 msgid "Rejoice, for the flowers have returned!"
-msgstr ""
+msgstr "기뻐하라, 꽃이 돌아왔도다!"
 
 #. Key:	0559493D46F48B86A2683FB3AC087112
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_FutaBalls.Default__CamillaDefault01_FutaBalls_C.SessionData.Lines(0).Lines
@@ -305,7 +305,7 @@ msgstr "아랫입 전에 불알 먼저!"
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",056C9C1748701D33A4113FB426A3981C"
 msgid "However..."
-msgstr ""
+msgstr "하지만..."
 
 #. Key:	06271AC24974DE1182364AAD430A9574
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
@@ -340,7 +340,7 @@ msgstr "이것봐,  @WORLD_NAME@ 어디에도 내가 미끄러지지 않은 곳�
 #: /Game/Dialogue/QueenBee/Default/BeeDefault02_RL.Default__BeeDefault02_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",06A529F441EB1545EE626A8ECC49CBCC"
 msgid "Do you masturbate all day?"
-msgstr ""
+msgstr "그대는 하루종일 자위를 하느냐?"
 
 #. Key:	06DCC78B4F1DECA217645DA58B3BB2A4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
@@ -389,7 +389,7 @@ msgstr "내가 맛있는 정액을 위해 너의 자지를 짜내면, 네 기분
 #: /Game/Breeding/Positions/Harvest.Default__Harvest_C.SessionData.PositionName
 msgctxt ",07E0077146239E020D026BADBDFCE890"
 msgid "Harvest"
-msgstr ""
+msgstr "수확"
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
@@ -417,14 +417,14 @@ msgstr "제 정액을 가져가세요!"
 #: /Game/Dialogue/OrcChief/Default/OrcDefault03_RL.Default__OrcDefault03_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",085EF70E45D784AFAEFB07BC461A23D9"
 msgid "Are all orcs as brash and dumb as you?"
-msgstr ""
+msgstr "모든 오크가 당신처럼 멍청하고 뻔뻔합니까?"
 
 #. Key:	08A1991945921B46D9EF9A94894EF846
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToMale(0).LinesToMale
 #: /Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",08A1991945921B46D9EF9A94894EF846"
 msgid "This corner is n-n-nice and safe!"
-msgstr ""
+msgstr "이 코너는 아-아-아주 좋고 안전하도다!"
 
 #. Key:	08A2508F4D57261E790AB8BEA258D6B2
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -494,7 +494,7 @@ msgstr "@MONSTER_RACE@의 기원은 오래되었고 알 수 없습니다. 그러
 #: /Game/Dialogue/Petra/Default/PetraAboutPawsmaati.Default__PetraAboutPawsmaati_C.SessionData.Lines(6).Lines
 msgctxt ",0A6AA641405E829B424AFE8894AB0083"
 msgid "When Pawsmaati finally unleashed her river of cum, I entered a dreamlike state in which I felt my mind unite with her's."
-msgstr ""
+msgstr "파스마티아가 마침내 그녀의 정액의 강을 뿜어 냈을 때, 나는 내 마음이 그녀의 마음과 일치한다는 것을 느끼는 꿈 같은 상태에 들어갔다."
 
 #. Key:	0A6CE0B4469F4068DE66F4AB8EC4EDA9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -529,14 +529,14 @@ msgstr "아아....너무 기분 좋아!"
 #: /Game/Dialogue/Widow/Default/WidowDefault01.Default__WidowDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",0B4EC1164A6993BFA78D2589D15A3FEB"
 msgid "What is this stuck in my web... a tasty morsel coursing with warm juice."
-msgstr ""
+msgstr "내 거미줄에 뭐가 걸린거지... 따뜻한 쥬스를 곁들인 맛있는 한입거리."
 
 #. Key:	0B66D1724E54B8860E24D3A0B83981AB
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcDefault03_RL.Default__OrcDefault03_RL_C.ResponseData(3).ResponseData.BreederPrompt
 #: /Game/Dialogue/OrcChief/Default/OrcDefault03_RL.Default__OrcDefault03_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",0B66D1724E54B8860E24D3A0B83981AB"
 msgid "Your orc tribe sucks."
-msgstr ""
+msgstr "당신네들 오크 부족은 형편없어."
 
 #. Key:	0B796FF84644C0154CA874BFDFA16D50
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(2).Lines
@@ -585,14 +585,14 @@ msgstr "트리아이 관리"
 #: /Game/Dialogue/Petra/Default/PetraPracticeMe.Default__PetraPracticeMe_C.SessionData.Lines(3).Lines
 msgctxt ",0C6185B247E0B89045AEA68A0EF63C17"
 msgid "Get over here and teach this naughty bunny a lesson!"
-msgstr ""
+msgstr "이리로 와서 이 개구쟁이 토끼에게 한 수 가르쳐줘!"
 
 #. Key:	0C7FA2DC4E91993DEDDA2CA03E98C251
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiTaskFulfilled.Default__FesssiTaskFulfilled_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fesssi/Default/FesssiTaskFulfilled.Default__FesssiTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",0C7FA2DC4E91993DEDDA2CA03E98C251"
 msgid "Hiss!"
-msgstr ""
+msgstr "쉬익!"
 
 #. Key:	0CA6EE7548B8D90D10FC67A138E7F076
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(4).Lines
@@ -683,7 +683,7 @@ msgstr "개"
 #: /Game/Dialogue/Fesssi/Default/FesssiDefault03_RL_F.Default__FesssiDefault03_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",0E10569D4932D4D9DE1B73A05A7FC5FB"
 msgid "Wow... this world is full of idiots."
-msgstr ""
+msgstr "우와... 이 세상은 얼간이들로 가득 찼구나."
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
@@ -753,7 +753,7 @@ msgstr "*쭙쭙* *햝짝*"
 #: /Game/Dialogue/Widow/Default/WidowHadSex01.Default__WidowHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",0F2C0FD149F892CC3CC45FA0F73FA3DB"
 msgid "There is no need to fear me. Stay awhile in my web, and let us see how far we can take our love."
-msgstr ""
+msgstr "날 겁낼 필요 없어. 한동안 내 거미줄에서 머물러, 그리고 우리가 우리의 사랑을 어디까지 가져갈 수 있는지 보자고."
 
 #. Key:	0F2C916F409983084088D7B8C734556F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(4).Lines
