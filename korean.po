@@ -53,7 +53,7 @@ msgstr "이 작은 가죽 도구 벨트는 내 버터 스틱을 간신히 넣을
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",00D1AE354BA8FEC1FB7DB5A02D3F12AA"
 msgid "Ahh... oh! Ahem."
-msgstr ""
+msgstr "아... 오! 에헴."
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
